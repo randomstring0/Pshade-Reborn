@@ -28,7 +28,10 @@ loadstring(game:HttpGet(("https://pastefy.app/xXkUxA0P/raw"),true))()
 
 ### how to use `getgenv().RTX_Name = "rtxnamehere"`
 
-**This feature has a function to directly load shaders during execution**
+> [!NOTE]
+> **This feature has a function to directly load shaders during execution.**
+
+
 
 ### How to use it is just by entering the name of the shader into the text "rtxnamehere"
 
