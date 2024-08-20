@@ -1,5 +1,7 @@
 
-# < **PSHADE INFORMATION** >
+# < **```ansi
+[2;34mPshade[0m
+``` INFORMATION** >
 ![ ABOUT PSHADE REBORN ](https://github.com/randomstring0/Pshade-Reborn/blob/main/Images/IMG_20240820_082922.jpg)
 
 ### Pshade-Reborn
@@ -51,7 +53,7 @@ getgenv().RTX_Name = "Midday lite" -- one of the shader names
 - `Solara [ pc ]`
 - `Hydrogen [ mobile ]`
 - `Delta [ mobile ]`
-- VegaX `[ mobile ]`
+- `VegaX [ mobile ]`
 
 > [!TIP]
 > Make sure the Executor is Above Level 5
