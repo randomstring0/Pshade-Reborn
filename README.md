@@ -1,6 +1,7 @@
 
 # < PSHADE INFORMATION. >
 ![ ABOUT PSHADE REBORN ](https://raw.githubusercontent.com/randomstring0/Pshade-Reborn/main/Images/unnamed.webp)
+
 ### Pshade-Reborn
 pshade is a shader script project that wants to make Roblox graphics look better with lots of graphic features and adjustment settings that you can adjust yourself without being limited by your device.
 
@@ -51,3 +52,7 @@ getgenv().RTX_Name = "Midday lite" -- one of the shader names
 
 > [!NOTE]
 > Pshade Created By Im Patrick [Sub Now](https://www.youtube.com/@Im_Patrick).
+
+## fun fact
+
+- Versions before pshade reborn all features and gui were only made using mobile
