@@ -1,6 +1,6 @@
 
 # < **PSHADE INFORMATION** >
-![ ABOUT PSHADE REBORN ](https://raw.githubusercontent.com/randomstring0/Pshade-Reborn/main/Images/unnamed.webp)
+![ ABOUT PSHADE REBORN ](https://github.com/randomstring0/Pshade-Reborn/blob/main/Images/IMG_20240820_082922.jpg)
 
 ### Pshade-Reborn
 pshade is a shader script project that wants to make Roblox graphics look better with lots of graphic features and adjustment settings that you can adjust yourself without being limited by your device.
