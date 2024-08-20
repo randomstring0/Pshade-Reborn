@@ -7,8 +7,8 @@ pshade is a shader script project that wants to make Roblox graphics look better
 * ~~April 24, 2022~~
 
 # previous name
-> Rtx gui
-> P:rtx
+> Rtx gui.
+> P:rtx.
 
 # CODE
 
@@ -34,13 +34,13 @@ getgenv().RTX_Name = "Midday lite" -- one of the shader names
 
  [ You need an executor that is used to execute a code ]
   ** Example : **
-    - Arceus X [ mobile ]
-    - CodeX [ mobile ]
-    - Wave [ pc ]
-    - Solara [ pc ]
-    - Hydrogen [ mobile ]
-    - Delta [ mobile ]
-    - VegaX [ mobile ]
+- Arceus X [ mobile ]
+- CodeX [ mobile ]
+- Wave [ pc ]
+- Solara [ pc ]
+- Hydrogen [ mobile ]
+- Delta [ mobile ]
+- VegaX [ mobile ]
 
 > [!TIP]
 > Make sure the Executor is Above Level 5
