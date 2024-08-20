@@ -1,7 +1,5 @@
 
-# < **```ansi
-[2;34mPshade[0m
-``` INFORMATION** >
+#  **PSHADE INFORMATION** 
 ![ ABOUT PSHADE REBORN ](https://github.com/randomstring0/Pshade-Reborn/blob/main/Images/IMG_20240820_082922.jpg)
 
 ### Pshade-Reborn
