@@ -28,7 +28,7 @@ loadstring(game:HttpGet(("https://pastefy.app/xXkUxA0P/raw"),true))()
 --//Example//--
 
 getgenv().RTX_Name = "Midday lite" -- one of the shader names
-``
+```
 
 # how to run it?
 
