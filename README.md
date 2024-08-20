@@ -34,7 +34,7 @@ getgenv().RTX_Name = "Midday lite" -- one of the shader names
 ## how to run it?
 
  [ You need an executor that is used to execute a code ]
-  ** Example : **
+* Example :
 - Arceus X [ mobile ]
 - CodeX [ mobile ]
 - Wave [ pc ]
