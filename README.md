@@ -3,7 +3,10 @@
 ![ ABOUT PSHADE REBORN ](https://github.com/randomstring0/Pshade-Reborn/blob/main/Images/IMG_20240820_082922.jpg)
 
 ### Pshade-Reborn
-pshade is a shader script project that wants to make Roblox graphics look better with lots of graphic features and adjustment settings that you can adjust yourself without being limited by your device.
+
+> [!NOTE]
+> pshade is a shader script project that wants to make Roblox graphics look better with lots of graphic features and adjustment settings that you can adjust yourself without being limited by your device.
+
 
 ### the date the pshade was first created
 * ~~April 24, 2022~~
@@ -25,7 +28,7 @@ loadstring(game:HttpGet(("https://pastefy.app/xXkUxA0P/raw"),true))()
 
 ### how to use `getgenv().RTX_Name = "rtxnamehere"`
 
-** This feature has a function to directly load shaders during execution **
+**This feature has a function to directly load shaders during execution**
 
 ### How to use it is just by entering the name of the shader into the text "rtxnamehere"
 
