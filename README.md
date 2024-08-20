@@ -1,5 +1,5 @@
 
-<!-- PSHADE INFORMATION. -->
+# < PSHADE INFORMATION. >
 ![ ABOUT PSHADE REBORN ](https://raw.githubusercontent.com/randomstring0/Pshade-Reborn/main/Images/unnamed.webp)
 ### Pshade-Reborn
 pshade is a shader script project that wants to make Roblox graphics look better with lots of graphic features and adjustment settings that you can adjust yourself without being limited by your device.
@@ -7,11 +7,11 @@ pshade is a shader script project that wants to make Roblox graphics look better
 ### the date the pshade was first created
 * ~~April 24, 2022~~
 
-# previous name
+## previous name
 * Rtx gui
 * P:Rtx
 
-# CODE
+## CODE
 
 ```lua
 getgenv().RTX_Name = "rtxnamehere" 
@@ -31,7 +31,7 @@ loadstring(game:HttpGet(("https://pastefy.app/xXkUxA0P/raw"),true))()
 getgenv().RTX_Name = "Midday lite" -- one of the shader names
 ```
 
-# how to run it?
+## how to run it?
 
  [ You need an executor that is used to execute a code ]
   ** Example : **
@@ -47,7 +47,7 @@ getgenv().RTX_Name = "Midday lite" -- one of the shader names
 > Make sure the Executor is Above Level 5
 
 
-# Creator
+## Creator
 
 > [!NOTE]
 > Pshade Created By Im Patrick [Sub Now](https://www.youtube.com/@Im_Patrick).
