@@ -59,7 +59,7 @@ getgenv().RTX_Name = "Midday lite" -- one of the shader names
 
 ## Creator
 
-> [!NOTE]
+> [!the creator of pshade]
 > Pshade Created By Im Patrick [Sub Now](https://www.youtube.com/@Im_Patrick).
 
 ## fun fact
