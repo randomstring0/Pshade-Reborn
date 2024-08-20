@@ -9,7 +9,7 @@ pshade is a shader script project that wants to make Roblox graphics look better
 * ~~April 24, 2022~~
 
 ## previous name
-* Rtx gui
+* shader gui
 * P:Rtx
 * P:shade
 * P||shade
