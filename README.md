@@ -1,5 +1,5 @@
 
-# < PSHADE INFORMATION. >
+# < **PSHADE INFORMATION** >
 ![ ABOUT PSHADE REBORN ](https://raw.githubusercontent.com/randomstring0/Pshade-Reborn/main/Images/unnamed.webp)
 
 ### Pshade-Reborn
