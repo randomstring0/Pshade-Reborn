@@ -54,7 +54,7 @@ getgenv().RTX_Name = "Midday lite" -- one of the shader names
 - `Frostware [ mobile ]`
 
 > [!TIP]
-> Make sure the Executor is Above Level 5
+> Make sure the Executor is Supported
 
 
 ## Creator
