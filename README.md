@@ -5,7 +5,7 @@
 ### Pshade-Reborn
 
 > [!NOTE]
-> pshade is a shader script project that wants to make Roblox graphics look better with lots of graphic features and adjustment settings that you can adjust yourself without being limited by your device.
+> pshade reborn are roblox shader exploit, it's completedly using roblox engine Luau
 
 
 ### the date the pshade was first created
@@ -49,9 +49,9 @@ getgenv().RTX_Name = "Midday lite" -- one of the shader names
 - `CodeX [ mobile ]`
 - `Wave [ pc ]`
 - `Solara [ pc ]`
-- `Hydrogen [ mobile ]`
+- `Fluxus [ mobile ]`
 - `Delta [ mobile ]`
-- `VegaX [ mobile ]`
+- `Frostware [ mobile ]`
 
 > [!TIP]
 > Make sure the Executor is Above Level 5
