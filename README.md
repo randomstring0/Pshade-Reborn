@@ -23,7 +23,7 @@
 ```lua
 getgenv().RTX_Name = "rtxnamehere" 
 
-loadstring(game:HttpGet(("https://pastefy.app/xXkUxA0P/raw"),true))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/randomstring0/unk/refs/heads/main/patrick%20shader.luau"))() 
 ```
 
 ### how to use `getgenv().RTX_Name = "rtxnamehere"`
